@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.all_page_container{
+    height: 100vh;
+    /* width: 100vw; */
+    background-color: hsl(212, 45%, 89%);
+    display: grid;
+    grid-template-columns: 27%;
+    grid-template-rows: 70%;
+    justify-content: center;
+    align-content:center ;
+
+}
+
+.card_container{
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    flex-direction: column;
+}
+.pic_container{
+    height: 59.5%;
+    
+}
+.pic_container img{
+    object-fit:cover;
+    width: 100%;
+    height: 100%;
+    
+}
+.bold_text_container{
+    height: 20%;
+    background-color:blue;
+}
+.text_container{
+    height: 20%;
+    color:hsl(212, 45%, 89%);
+    background-color: blueviolet;
+}
