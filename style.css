@@ -13,7 +13,6 @@ body{
     grid-template-rows: 88%;
     justify-content: center;
     align-content:center ;
-
 }
 
 .card_container{
@@ -55,4 +54,218 @@ body{
     font-weight: 400;
     font-size: 21px;
     color: hsl(220, 15%, 55%);
+}
+
+
+
+
+
+@media screen and (max-width:1424px){
+    .text_container .bold_text_container{
+        font-size: 29px;
+    }
+}
+
+@media screen and (max-width:1376px){
+    .text_container .bold_text_container{
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width:1340px){
+    .text_container .grey_text_container{
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:1328px){
+    .text_container .bold_text_container{
+        font-size: 27px;
+    }
+}
+
+@media screen and (max-width:1282px){
+    .text_container .bold_text_container{
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-width:1277px){
+    .text_container .grey_text_container{
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width:1234px){
+    .text_container .bold_text_container{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width:1213px){
+    .text_container .grey_text_container{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:1187px){
+    .text_container .bold_text_container{
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width:1149px){
+    .text_container .grey_text_container{
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width:1140px){
+    .text_container .bold_text_container{
+        font-size: 23px;
+    }
+}
+
+@media screen and (max-width:1092px){
+    .text_container .bold_text_container{
+        font-size: 22px;
+    }
+    .text_container .grey_text_container{
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:1045px){
+    .text_container .bold_text_container{
+        font-size: 21px;
+    }
+    .text_container .grey_text_container{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:997px){
+    .text_container .bold_text_container{
+        font-size: 20px;
+    }
+    .text_container .grey_text_container{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:949px){
+    .text_container .bold_text_container{
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width:902px){
+    .all_page_container{
+        grid-template-columns: 40%;
+    }
+    .text_container .bold_text_container{
+        font-size: 22px;
+    }
+    .text_container .grey_text_container{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:806px){
+    .text_container .bold_text_container{
+        font-size: 21px;
+    }
+    .text_container .grey_text_container{
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width:769px){
+    .text_container .bold_text_container{
+        font-size: 20px;
+    }
+    .text_container .grey_text_container{
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:733px){
+    .all_page_container{
+        grid-template-columns: 40%;
+    }
+}
+
+@media screen and (max-width:686px){
+    .text_container .grey_text_container{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:641px){
+    .text_container .bold_text_container{
+        font-size: 19px;
+    }
+    .text_container .grey_text_container{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:609px){
+    .all_page_container{
+        grid-template-columns: 45%;
+    }
+}
+
+@media screen and (max-width:540px){
+    .all_page_container{
+        grid-template-columns: 50%;
+    }
+}
+
+@media screen and (max-width:487px){
+    .all_page_container{
+        grid-template-columns: 55%;
+    }
+}
+
+@media screen and (max-width:443px){
+    .all_page_container{
+        grid-template-columns: 60%;
+    }
+}
+
+@media screen and (max-width:406px){
+    .all_page_container{
+        grid-template-columns: 65%;
+    }
+}
+
+@media screen and (max-width:375px){
+    .all_page_container{
+        grid-template-columns: 70%;
+    }
+}
+
+@media screen and (max-width:348px){
+    .all_page_container{
+        grid-template-columns: 75%;
+    }
+}
+
+@media screen and (max-width:325px){
+    .all_page_container{
+        grid-template-columns: 80%;
+    }
+}
+
+@media screen and (max-width:304px){
+    .all_page_container{
+        grid-template-columns: 85%;
+    }
+}
+
+@media screen and (max-width:287px){
+    .all_page_container{
+        grid-template-columns: 90%;
+    }
 }
