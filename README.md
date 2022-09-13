@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,10 +18,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
-### Screenshot
-
-[./images/Screenshot-project.png]
 
 ### Links
 
@@ -42,12 +37,14 @@ I learn more about CSS Grid and get more comfurtable using it , more than that I
 In addition I sharping my responsive design skills.
 
 
+html
 ```html
  <section class="all_page_container">
       <section class="card_container">...
       </section>
     </section>
 ```
+css
 ```css
 .all_page_container{
     height: 100vh;
